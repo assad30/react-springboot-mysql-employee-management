@@ -1,0 +1,15 @@
+table {
+  min-width: 1000px;
+}
+
+.center-form, .container {
+  overflow-x: auto;
+}
+
+td {
+  vertical-align: middle !important;
+}
+
+table td {
+  white-space: nowrap;
+}

@@ -1,0 +1,26 @@
+
+.navbar{
+    background-attachment: #343a40;
+
+}
+.navbar .navbar-brand{
+    color: #fff;
+}
+.navbar .navbar-link{
+    color: #fff !important;
+    text-decoration: none !important;
+    margin-right: 20px; 
+}
+
+@media(max-width:576){
+    .navbar .navbar-link{
+        margin-right: 0;
+    }
+}
+td {
+  vertical-align: middle !important;
+}
+
+table td {
+  white-space: nowrap;
+}
